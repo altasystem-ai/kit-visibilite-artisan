@@ -1,6 +1,6 @@
 # Kit visibilité artisan
 
-Un **assistant marketing autonome pour les artisans du bâtiment**, qui fonctionne dans **Claude** (Claude Code, Cowork) ou **Codex**. Il n'y a ni serveur ni abonnement technique : c'est un dossier de fichiers que l'artisan ouvre dans son assistant IA.
+Un **assistant marketing autonome pour les artisans**, qui fonctionne dans **Claude** (Claude Code, Cowork) ou **Codex**. Il n'y a ni serveur ni abonnement technique : c'est un dossier de fichiers que l'artisan ouvre dans son assistant IA.
 
 L'assistant aide l'artisan à :
 - **savoir ce que lui rapportent ses pubs Google** : il tient un journal des devis, installe le suivi des conversions et fait un bilan mensuel à partir des exports Google Ads ;
